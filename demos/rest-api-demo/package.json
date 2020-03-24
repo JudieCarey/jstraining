@@ -5,9 +5,12 @@
   "main": "index.js",
   "scripts": {
     "server": "json-server db.json",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "......"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }
